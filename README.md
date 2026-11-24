@@ -8,3 +8,6 @@ Download: https://archive.ics.uci.edu/dataset/349/open+university+learning+analy
 Citation: Kuzilek, J., Hlosta, M., & Zdrahal, Z. (2017). Open University Learning Analytics dataset. Scientific Data, 4, 170171.
 ## Status 
 In progress
+## notes
+Each row is a student-course enrollment. Train and test sets are split by student, so no student appears in both.
+About 31% of enrollments ended in withdrawal, much higher than at a residential university like JMU (about 3%), so results may not transfer directly.
